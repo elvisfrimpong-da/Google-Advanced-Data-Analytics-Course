@@ -1,4 +1,4 @@
-# Google-Advanced-Data-Analytics-Course
+# Google Advanced Data Analytics Course
 This repository documents my learning journey through the **Google Advanced Data Analytics Professional Certificate**.
 
 It contains notes, hands-on labs, and projects focused on applying data analytics techniques to real-world problems using Python and statistical methods.
